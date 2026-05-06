@@ -1,0 +1,19 @@
+slurm-24.11.1/
+slurm-24.11.1.tar.bz2
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Slurm outputs
+*.out
+
+# Build folders
+hpc_runs/
+hpl-2.3/
+
+# Temporary
+*.tmp

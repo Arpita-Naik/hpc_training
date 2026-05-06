@@ -1,0 +1,21 @@
+build:
+  environment:
+    modules:
+      - gcc
+      - openmpi
+      - openblas
+
+  execution:
+    node: "localhost"
+    workdir: "~"
+
+  compile:
+    compiler: "mpicc"
+    blas: "-lopenblas"
+  metadata:
+    scheduler: "slurm"
+    system: "single-node"
+build:
+  paths:
+    base_dir: /home/arpita/hpc_runs
+    run_dir: /home/arpita/hpc_runs

@@ -1,0 +1,17 @@
+hpl:
+
+  runtime:
+    time: "00:05:00"
+    ntasks: 2
+    profiling: true
+
+  problem:
+    Ns: 1024
+    NB: 128
+
+  process_grid:
+    P: 1
+    Q: 2
+
+  execution:
+    iterations: 1

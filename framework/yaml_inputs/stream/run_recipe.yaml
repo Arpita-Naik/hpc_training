@@ -1,0 +1,16 @@
+stream:
+  benchmark:
+    name: "STREAM"
+    version: "5.10"
+
+  problem:
+    array_size: 20000000
+    ntimes: 10
+
+  runtime:
+    threads: 2
+    time: "00:02:00"
+    iterations: 1
+
+  execution:
+    binary: "stream"
