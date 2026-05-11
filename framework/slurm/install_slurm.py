@@ -28,8 +28,8 @@ class SlurmInstaller:
         text=True
     )
         for line in process.stdout:
-            print(line, end="")              # 👈 terminal
-            self.logger.info(line.strip())  # 👈 log file
+            print(line, end="")            
+            self.logger.info(line.strip())  
 
         process.wait()
 
