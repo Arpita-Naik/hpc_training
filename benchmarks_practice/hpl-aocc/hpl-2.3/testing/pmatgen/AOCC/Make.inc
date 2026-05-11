@@ -1,1 +1,0 @@
-/home/arpita/hpl-aocc/hpl-2.3/Make.AOCC

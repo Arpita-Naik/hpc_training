@@ -1,1 +1,0 @@
-/opt/intel/oneapi/compiler/2025.3/bin/icx CMakeFiles/stream_c.exe.dir/stream.c.o -o stream_c.exe  -fopenmp 

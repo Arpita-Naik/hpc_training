@@ -1,3 +1,0 @@
-/home/arpita/STREAM/build_intel/CMakeFiles/stream_c.exe.dir
-/home/arpita/STREAM/build_intel/CMakeFiles/edit_cache.dir
-/home/arpita/STREAM/build_intel/CMakeFiles/rebuild_cache.dir
