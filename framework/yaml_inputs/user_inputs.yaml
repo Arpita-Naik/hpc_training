@@ -1,8 +1,0 @@
-system:
-  cores: 2
-  frequency: 2.5
-  flops_per_cycle: 16
-
-slurm:
-  partition: "debug"
-  time: "00:05:00"
