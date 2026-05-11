@@ -1,0 +1,11 @@
+===== STREAM AOCC Benchmark =====
+Job ID: 79
+Running on: DESKTOP-9FJDKRQ
+=================================
+Modules loaded:
+Currently Loaded Modulefiles:
+ 1) aocc/5.1.0   2) aocl/5.2.0  
+ Running with OMP_NUM_THREADS=1 
+ Running with OMP_NUM_THREADS=2 
+ Running with OMP_NUM_THREADS=4 
+ Running with OMP_NUM_THREADS=8 

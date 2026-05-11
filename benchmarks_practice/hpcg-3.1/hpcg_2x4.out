@@ -1,0 +1,5 @@
+Loading compiler/2025.3.2
+  ERROR: Unable to locate a modulefile for 'tbb'
+  ERROR: Load of requirement tbb failed
+No PMIx server was reachable, but a PMI1/2 was detected.
+If srun is being used to launch application,  2 singletons will be started.

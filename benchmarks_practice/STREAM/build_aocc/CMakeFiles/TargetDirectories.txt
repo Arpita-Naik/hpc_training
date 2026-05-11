@@ -1,0 +1,3 @@
+/home/arpita/STREAM/build_aocc/CMakeFiles/stream_c.exe.dir
+/home/arpita/STREAM/build_aocc/CMakeFiles/edit_cache.dir
+/home/arpita/STREAM/build_aocc/CMakeFiles/rebuild_cache.dir

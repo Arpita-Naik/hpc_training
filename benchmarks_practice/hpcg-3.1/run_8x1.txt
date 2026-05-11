@@ -1,0 +1,24 @@
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 2 PID 199573 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 3 PID 199574 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 4 PID 199575 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 7 PID 199578 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================

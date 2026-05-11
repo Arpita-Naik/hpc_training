@@ -1,0 +1,14 @@
+[mpiexec@DESKTOP-9FJDKRQ] Sending Ctrl-C to processes as requested
+[mpiexec@DESKTOP-9FJDKRQ] Press Ctrl-C again to force abort
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 0 PID 211788 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 2 (Interrupt)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 1 PID 211789 RUNNING AT DESKTOP-9FJDKRQ
+=   KILLED BY SIGNAL: 2 (Interrupt)
+===================================================================================
